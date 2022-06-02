@@ -8,7 +8,6 @@ import { FaRegUser } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import { MdOutlineDashboardCustomize } from 'react-icons/md';
 import { AiFillFire } from 'react-icons/ai';
-import { GrFormClose } from 'react-icons/gr'
 import Login from '../login/Login';
 import Cart from '../cart/Cart';
  
